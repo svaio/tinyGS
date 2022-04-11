@@ -76,6 +76,7 @@
 #include "src/Radio/Radio.h"
 #include "src/ArduinoOTA/ArduinoOTA.h"
 #include "src/OTA/OTA.h"
+#include "src/PowerManagment/power_management.h"
 #include <ESPNtpClient.h>
 #include "src/Logger/Logger.h"
 
